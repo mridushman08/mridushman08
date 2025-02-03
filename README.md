@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @mridushman08
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning dsa,blockchain,machine learning
-- 💞️ I’m looking to collaborate on any ml project
+- 👀 I’m interested in problem solving, DSA, and exploring new tech like blockchain!
+- 🌱 I’m currently learning DSA, blockchain, and machine learning to sharpen my skills.
+- 💞️ I’m looking to collaborate on any machine learning or AI projects.
 - 📫 How to reach me mridushmandeka733@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns:he/mridu
+- ⚡ Fun fact: I once built a chatbot that could recommend books based on your mood!   
 
-<!---
-mridushman08/mridushman08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m [Your Name]  
+  
+    
+- 📫 How to reach me: [your email or social links]  
+
