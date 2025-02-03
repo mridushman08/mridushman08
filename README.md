@@ -6,8 +6,4 @@
 - 😄 Pronouns:he/mridu
 - ⚡ Fun fact: I once built a chatbot that could recommend books based on your mood!   
 
-- 👋 Hi, I’m [Your Name]  
-  
-    
-- 📫 How to reach me: [your email or social links]  
 
