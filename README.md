@@ -1,9 +1,40 @@
-- 👋 Hi, I’m @mridushman08
-- 👀 I’m interested in problem solving, DSA, and exploring new tech like blockchain!
-- 🌱 I’m currently learning DSA, blockchain, and machine learning to sharpen my skills.
-- 💞️ I’m looking to collaborate on any machine learning or AI projects.
-- 📫 How to reach me mridushmandeka733@gmail.com
-- 😄 Pronouns:he/mridu
-- ⚡ Fun fact: I once built a chatbot that could recommend books based on your mood!   
+# Hi 👋, I'm Mridu
+
+🎓 Computer Science Student | 💻 C++ & DSA Learner  
+📘 Learning Data Structures & Algorithms from Coding Blocks  
+
+---
+
+## 🚀 About Me
+- Currently focusing on **DSA with C++**
+- Solving problems to improve **logic building & problem-solving skills**
+- Exploring **Git, GitHub, and competitive programming**
+- Open to learning and collaborating on beginner-friendly projects
+
+---
+
+## 🛠️ Tools & Technologies
+- **Languages:** C, C++
+- **Concepts:** DSA, Problem Solving, OOP Basics
+- **Tools:** Git, GitHub, VS Code
+- **Platforms:** Coding Blocks, Online Judges
+
+---
+
+ 📂 Featured Repository
+🔹 [DSA with C++ – Coding Blocks](https://github.com/mridushman08/DSA-with-C-Coding-Blocks)  
+> Collection of all DSA and C++ problems solved during my Coding Blocks learning journey.
+
+---
+
+## 📈 Currently Learning
+- Arrays & Strings
+- Time & Space Complexity
+- Basic Recursion
+- Standard Template Library (STL)
 
 
+## 📫 Connect With Me
+- GitHub: [@mridushman08](https://github.com/mridushman08)
+
+Feel free to explore my repositories and drop a star if you like them!
