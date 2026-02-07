@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mridu
+# Hi 👋, I'm Mridushman
 
 🎓 Computer Science Student | 💻 C++ & DSA Learner  
 📘 Learning Data Structures & Algorithms from Coding Blocks  
