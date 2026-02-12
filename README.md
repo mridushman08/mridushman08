@@ -1,58 +1,59 @@
 <h1 align="center">Hi 👋, I'm Mridushman</h1>
 
 <p align="center">
-  🎓 Computer Science Student • 💻 C++ & DSA Learner • 🚀 Aspiring Software Developer
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;C%2B%2B+%7C+DSA+Enthusiast;Competitive+Programming+Learner;Aspiring+Software+Developer" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-DSA%20with%20C++-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Active%20Learner-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Goal-Software%20Developer-orange?style=flat-square" />
+  🎓 B.Tech CSE Student • 💻 C++ Developer • 🚀 Future SDE
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Goal-Placement%20Ready-orange?style=flat-square" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 📘 Learning **Data Structures & Algorithms from Coding Blocks**
-- 🧠 Strengthening **logic building & problem-solving skills**
-- 🔍 Exploring **Git, GitHub & Competitive Programming**
-- 🤝 Open to collaborating on beginner-friendly projects
-- 🌱 Focused on consistent improvement
+- 📘 Mastering **Data Structures & Algorithms using C++**
+- 🧠 Strong focus on **problem-solving & logical thinking**
+- 🏁 Preparing for **placements & software development roles**
+- 💡 Actively exploring **Competitive Programming**
+- 🌱 Believer in consistent daily improvement
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Technical Skills
 
-**Languages:**  
-`C` `C++`
+### 💻 Languages
+`C` • `C++`
 
-**Core Concepts:**  
-`Data Structures` • `Algorithms` • `OOP Basics` • `Problem Solving`
+### 📚 Core Concepts
+`Data Structures` • `Algorithms` • `OOP` • `Recursion` • `Time & Space Complexity`
 
-**Tools:**  
-`Git` • `GitHub` • `VS Code`
-
-**Platforms:**  
-Coding Blocks • Online Judges
+### ⚙️ Tools
+`Git` • `GitHub` • `VS Code` • `g++`
 
 ---
 
-## 📂 Featured Repository
+## 🏆 Competitive Programming Focus
+
+- Practicing DSA problems regularly  
+- Improving speed & accuracy  
+- Learning STL for optimized coding  
+- Building strong algorithmic thinking  
+
+---
+
+## 📂 Featured Project
 
 🔹 **DSA with C++ – Coding Blocks**  
-📌 Lecture-wise collection of DSA problems solved during my learning journey  
+Lecture-wise structured DSA solutions and implementations  
 
-👉 [View Repository](https://github.com/mridushman08/DSA-with-Cpp-Coding-Blocks)
-
----
-
-## 📈 Currently Learning
-
-- Arrays & Strings  
-- Time & Space Complexity  
-- Recursion  
-- Standard Template Library (STL)
+👉 https://github.com/mridushman08/DSA-with-Cpp-Coding-Blocks
 
 ---
 
@@ -60,16 +61,25 @@ Coding Blocks • Online Judges
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mridushman08&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridushman08&layout=compact&theme=default" height="160"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mridushman08&theme=github-light" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: [@mridushman08](https://github.com/mridushman08)
+- GitHub: https://github.com/mridushman08
 
 ---
 
 <p align="center">
-  ⭐ Consistency beats intensity.
+  ⭐ “Consistency > Motivation”
 </p>
